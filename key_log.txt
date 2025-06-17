@@ -1,0 +1,1 @@
+hello[Key.space]world[Key.space][Key.esc]notepad[Key.enter]notepad[Key.enter]hello[Key.space]world[Key.space]sahilm[Key.space][Key.ctrl_l][Key.esc]
