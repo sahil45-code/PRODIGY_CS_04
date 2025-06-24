@@ -1,4 +1,4 @@
-# 🔐 Task: Simple Keylogger – Cyber Security at prodigy infotech 
+# 🔐 Task: Simple Keylogger 
 
 ## 📌 Task Overview
 
@@ -44,7 +44,7 @@ The script uses the `pynput` Python library to listen for keyboard events:
 
 ##📋 Sample Output:-
 The following is an example output stored in key_log.txt:
-``css
+```css
 hello[Key.space]world[Key.enter]sahil[Key.space]katke[Key.esc]
 
 #✅ How to Run:-
