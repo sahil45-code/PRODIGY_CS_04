@@ -18,12 +18,6 @@ This exercise enhances understanding of **keyboard event monitoring**, **file ha
 
 ---
 
-## 🛡️ Ethical Considerations
-
-> ⚠️ **Disclaimer**: This project is developed **strictly for educational purposes** as part of an internship assignment. Unauthorized usage of keyloggers is **illegal** and **unethical**. Always obtain **explicit consent** before using such tools on any system.
-
----
-
 ## 📂 Files Included:-
 
 - `keylogger.py` – Python script that implements the keylogger.
